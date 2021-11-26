@@ -486,4 +486,12 @@ i{
   }
 }
 
+@media print{
+  .term .main a{
+    color: black !important;
+    text-shadow: none !important;
+    text-decoration: underline !important;
+  }
+}
+
 
