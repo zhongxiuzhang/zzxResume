@@ -1,3 +1,3 @@
-# 简历源码
+# 前端工程师简历
 
-https://github.com/zhongxiuzhang
+在线简历：https://zhongxiuzhang.github.io/zzxResume/
